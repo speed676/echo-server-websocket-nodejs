@@ -1,0 +1,22 @@
+{
+  "name": "echo-server",
+  "version": "1.0.0",
+  "description": "Test echo server",
+  "main": "ws_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echo",
+    "server",
+    "nodejs",
+    "echo",
+    "server",
+    "websockets"
+  ],
+  "author": "Victor Guillem Agustí",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.3"
+  }
+}
